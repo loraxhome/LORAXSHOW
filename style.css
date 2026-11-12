@@ -1,0 +1,13 @@
+/* Bakgrundsfärg för hela sidan */
+body {
+    background-color: #cfe8b3;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+}
+
+/* Rubriken */
+h1 {
+    color: #4d6427;
+}
